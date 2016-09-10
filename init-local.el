@@ -10,6 +10,8 @@
 (require 'chinese-pyim)
 (require 'chinese-fonts-setup)
 ;; (require 'column-marker)
+(require 'chinese-pyim-greatdict)
+(chinese-pyim-greatdict-enable)
 
 (setq default-input-method "chinese-pyim")
 (global-set-key (kbd "C-.") 'pyim-toggle-full-width-punctuation)
