@@ -2,7 +2,7 @@ Writing LaTeX File in Emacs
 ===========================
 
 The most important thing I find today is that tool bar in Emacs is a very
-good component. It's too wrong to reject the utilization of mouse, and the
+good component. It is too wrong to reject the utilization of mouse, and the
 cooperation of tool bar and mouse will extremely increase efficiency.
 
 AUCTeX is a tool that should be used together with tool bar. There are always
